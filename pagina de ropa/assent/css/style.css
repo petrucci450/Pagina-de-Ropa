@@ -1,0 +1,120 @@
+html body{
+    background-color: rosybrown;
+}
+
+.navbar-nav{
+    color: violet;
+}
+
+
+.titulo1{
+    background-color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.uno{
+    background-color: white;
+    margin-left: 10px;
+}
+
+.dos{
+    margin-left: 20px;
+}
+
+.tres{
+    background-color: white;
+    margin-left: 20px;
+}
+
+
+.cuatro{
+    background-color: white;
+    margin-left: 435px;
+}
+
+.titulo2{
+background-color: aqua;
+margin-left: 435px;
+margin-right: 510px;
+color: red;
+}
+.cinco{
+    margin-left: 460px;
+    
+}
+
+.texto1{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+   font-family: cursive;
+}
+
+.texto2{
+    background-color: white;
+    margin-right: 160px;
+    margin-left: 160px;
+    font-family: cursive;
+}
+.seis{
+    margin-left: 500px; 
+}
+
+
+.texto3{
+    background-color: white;
+    margin-right: 160px;
+    margin-left: 160px;
+    font-family: cursive;
+}
+
+
+.card{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.texto4{
+    background-color: white;
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.texto5{
+    background-color: white;
+   
+   
+}
+
+.mb-3{
+margin-left: 390px;
+}
+
+.footer{
+    display: table;
+    width: 100%;
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+   padding-top: 2%;
+}
+
+.arriba{
+    margin-right: 15px;
+    background-color: white;
+    position:fixed;
+    right:0;
+    bottom: 5%;
+    font-size:1.5rem ;
+    display: flex; 
+    
+    align-items: flex-end;
+    z-index: 100;
+
+}
